@@ -1,5 +1,3 @@
 # Hugging Face
 
-This section covers some basic concepts realted to LLMS , transformers and other concepts related to Generative AI and Hugging Face.
-
-TBTH
+Hugging Face is a vital platform for accessing machine learning and AI functionality. In this course, you'll explore the Hugging Face Hub to the most appropriate models and datasets for your tasks. You'll utilize Hugging Face's API to search its model repository by task, author, or popularity. You'll use pipelines, a fundamental Hugging Face component, to perform a whole host of AI tasks using a simple and intuitive syntax. You'll learn to classify text into categories, generate impactful and accurate summaries, and even have conversations with documents. Join the AI revolution and learn about Hugging Face today!
